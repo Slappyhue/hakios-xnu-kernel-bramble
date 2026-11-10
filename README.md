@@ -1,4 +1,4 @@
-# HakiOS
+# HakiOS *UNOFFICIAL EXPERIMENTAL PORT TO GOOGLE PIXEL 4a 5G\*
 
 English · [中文](README.zh.md) · [Українська](README.uk.md)
 
